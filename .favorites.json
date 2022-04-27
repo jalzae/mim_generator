@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Directory",
+        "name": "d:\\Working\\Android\\flutter\\algostudiotest\\lib",
+        "parent_id": null,
+        "fsPath": "d:\\Working\\Android\\flutter\\algostudiotest\\lib",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "oHuPwvXzNkyeAKqF"
+    },
+    {
+        "type": "File",
+        "name": "d:\\Working\\Android\\flutter\\algostudiotest\\pubspec.yaml",
+        "parent_id": null,
+        "fsPath": "d:\\Working\\Android\\flutter\\algostudiotest\\pubspec.yaml",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "nsvbER3Cg6A7P0Ti"
+    }
+]
